@@ -7,3 +7,7 @@ Requires Python 3 and root access (for the ping).
 2. Install dependencies: `pip install -r requirements.txt`
 
 3. Run `python server_ping_test.py`
+
+# Windows 10
+
+WIP
