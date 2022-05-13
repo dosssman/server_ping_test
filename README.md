@@ -10,7 +10,27 @@ Requires Python 3 and root access (for the ping).
 
 This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to be used in the `compare_results.py` script.
 
-# Windows 10
+
+# Windows 10 (Native)
+
+1. Download Python 3 for Windows 10 from: https://www.python.org/downloads/release/python-3104/ or [Direct link](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
+
+2. Run the installer, make sure that "pip" is included in the install settings, and forget not to tick "Add Python to PATH".
+
+3. Download and extract this repository to folder of your choice.
+
+4. Start "Command Prompt" as Administrator and navigate to the previously extracted folder.
+
+5. Execute `pip install -r requirements.txt`
+
+6. Run `python server_ping_test.py`
+
+This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to be used in the `compare_results.py` script.
+
+7. Uninstall Python 3 and delete the downloaded files.
+
+
+# Windows 10 (Git Bash)
 
 ### 1. Gitbash is required. 
 - Download and install the latest Gitbash from https://git-scm.com/downloads
