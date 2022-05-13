@@ -52,7 +52,7 @@ This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to 
 - Run in gitbash to check pip version: `py -m pip --version`
 - If pip is not found, please install it.
 
-### 4. Download ZIP file and unzip to your driver (e.g. `E:/server_ping_test-main`)
+### 4. Download ZIP file and unzip to your to folder of your choice (e.g. `E:/server_ping_test-main`)
   1). Run Gitbash as administrator. (Right click Github icon, "Run as administrator")
   
   2). Open the folder. Run `cd E:/server_ping_test-main`
