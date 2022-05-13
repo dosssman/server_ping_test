@@ -38,7 +38,7 @@ This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to 
   2). Open the folder. Run `cd E:/server_ping_test-main`
   
   3). Install dependencies: `pip install -r requirements.txt`
-  If you meet some version conflicts, just install one by one `pip install <package_name>` or `py -m pip install <package_name>` (without specific version number)
+  - If you meet some version conflicts, just install the dependency one by one: `pip install <package_name>` or `py -m pip install <package_name>` (without specific version number)
   
   4). Run `python server_ping_test.py`
   
