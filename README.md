@@ -16,7 +16,6 @@ This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to 
 - Download and install the latest Gitbash from https://git-scm.com/downloads
 
 ### 2. Installing Python 3 in Git Bash on Windows 10:
-  ######  Check the Latest Python 3 Release https://www.python.org/downloads/windows/
 - Download and install the Windows x86-64 executable installer from https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe
    
   - Check the `Add Python 3.8 to Path` check box
@@ -27,6 +26,7 @@ This will generate a file of the form `benchresults.2022-05-13_11_54_44.pkl` to 
    
 - Once installed, open a new git bash window (otherwise, the PATH change will not be in effect)
 - Check python version to make sure it is installed successfully. Run in gitbash: `python -V`
+######  The Latest Python 3 Release https://www.python.org/downloads/windows/
 
 ### 3. Pip is required.
 - Run in gitbash to check pip version: `py -m pip --version`
